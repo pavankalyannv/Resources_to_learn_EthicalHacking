@@ -2,9 +2,7 @@
 
 What I’m sharing here is a collection of some best resources about Hacking & Penetration Testing to make you learn faster! Let's make it the best resource repository for our community.
 
-**You are welcome to fork and contribute.**
-
-**Also you can find my own writeups/tutorials on medium : @hussnainfareed  :)**
+**You are welcome to fork.**
 
 
 ## Books
@@ -161,8 +159,6 @@ Name    |    Description
 Your contributions and suggestions are heartily welcome. 
 
 # NOTE:
-All references taken from Internet and shared on internet xD Thanks to those who shared their opinion before that helped me learn 😉
+All references taken from Internet and shared on internet Thanks to those who shared their opinion before that helped me learn 😉
 if you have any questions, please ask in the comments. If you know about any good resource for beginners, please share it.
 
-For more articles on hacking you can follow me on Medium: 
-## medium.com/@hussnainfareed
